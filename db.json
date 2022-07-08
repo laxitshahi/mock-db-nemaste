@@ -1,0 +1,758 @@
+[
+  {
+    "_id": "528b7b8a-9ac7-4859-8c54-73d07c39c465",
+    "author": {
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-dd6190f6f7c6d6d5f793409187ebd09c4e860212-325x321-webp",
+          "_type": "reference"
+        }
+      },
+      "name": "Arnima Shrestha"
+    },
+    "body": [
+      {
+        "_key": "6117da66e126",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "11d698d7a1cc",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f282953d6cc6",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-84e59dd1448acdcb222624c08a70035d72ec563c-950x714-webp",
+          "_type": "reference"
+        },
+        "crop": {
+          "_type": "sanity.imageCrop",
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0
+        },
+        "hotspot": {
+          "_type": "sanity.imageHotspot",
+          "height": 1,
+          "width": 1,
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "_key": "9d56591da920",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "5db0859fa877",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Dear Nemaste,"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e83f6f83d2c1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "e173a86f59120",
+            "_type": "span",
+            "marks": [],
+            "text": "The first puja I remember that we would partake in was Laxmi Puja, where we would pray for Lakshmi Matha, the goddess of wealth. As time went by, our habits changed, and although we haven’t played with Pathaka’s in a long time, I remember the first year (or the second), when we came to Canada, during Tihar, when the stars shone their brightest, my family and I would head over to the balcony, and light up firecrackers (not really ASK mamu)."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "02d7044cad43",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c14d8f0c440a0",
+            "_type": "span",
+            "marks": [],
+            "text": "\n"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "ebd414dcf9b2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fc87d338cd960",
+            "_type": "span",
+            "marks": [],
+            "text": "Although I didn’t realize it back then, I do as I am writing this. Despite their hard time adjusting to a country with a different language and values, my parents always did their best to make us feel at home, in Nepal. They never forgot their values and beliefs, and each year, without fail, they always celebrate the festivals they grew up with. Thank you mamu and papu."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "658fb9ff85a9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cbbee21bfec30",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e9f63245a422",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b67cb4f7333b0",
+            "_type": "span",
+            "marks": [],
+            "text": "Next in our list of puja’s, comes Mahapuja."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "76cc04d95836",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "32b10fb123f80",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "6a2c069528e1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cb21acfe65a50",
+            "_type": "span",
+            "marks": [],
+            "text": "Mahapuja is not celebrated by all Nepali’s, rather celebrated by the Newari Community. Mahapuja’s were always fun! My mom would go from the eldest to youngest, by putting tikka on them, and pujaing (told you Neplish was a thing!). After this puja was completed, we would then feast on the delicious bhoj that was made by mom. I would have seconds, and thirds, because of how well she made everything!"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9300d5d0eadf",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "db2e1d7dadd00",
+            "_type": "span",
+            "marks": [],
+            "text": "\n"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a4a0f9ebb711",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "1457607629cd0",
+            "_type": "span",
+            "marks": [],
+            "text": "There were many other puja’s too, but these two were the ones that I enjoyed the most. To me, Tihar not only represents the festival of light, but a festival where I can spend my time eating, laughing, and talking with my family"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a5fdd230824b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c03cd282740b0",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "c61a9b6c424d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a7e34868049e0",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Sincerely,"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "1da4f5c110b8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "77b92adc57fa0",
+            "_type": "span",
+            "marks": [],
+            "text": "Arnima Shrestha"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "description": "Our memories of Tihar",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-84e59dd1448acdcb222624c08a70035d72ec563c-950x714-webp",
+        "_type": "reference"
+      }
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "tihar-memories"
+    },
+    "title": "Tihar Memories"
+  },
+  {
+    "_id": "6656cb73-1f96-4ee0-834f-38f9456c599f",
+    "author": {
+      "image": {
+        "_type": "image",
+        "asset": {
+          "_ref": "image-815a2d4ce062287c6ed03558fbf4e91a7fe70861-442x438-webp",
+          "_type": "reference"
+        }
+      },
+      "name": "Sandeep Shrestha "
+    },
+    "body": [
+      {
+        "_key": "93103cf4d4f8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6d7efa527208",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "86bb171176e4",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-4792075697a8b76aa9de99cf6cdd482387bd6544-330x330-webp",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "3c7fff2e191f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "883bc0bc91a90",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Dear Nemaste,"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9280be6e82e6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "419d95f81a06",
+            "_type": "span",
+            "marks": [],
+            "text": "Prithvi Narayan Shah was the first King of Nepal. Being born to King Nara Bhupal Shah and Queen Kaushalyavati Devi on January of 1723 in the Gorkha Palace, he was the first ruler to unify Nepal as one single state. In Nepal, he is also known as “Father of the Nation” in Nepal. Prithvi Narayan Shah was succeeded by his son, Pratap Singh Shah, who continued the unification of Nepal."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "47d101c6b526",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "64e63cd4357e0",
+            "_type": "span",
+            "marks": [],
+            "text": "\n"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "5b1cf4675b38",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3d845213bf520",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "His Early Days"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "6d84e66ad98d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3477fe16ae860",
+            "_type": "span",
+            "marks": [],
+            "text": "Prithvi Narayan Shah was a bright child from a young age. By the age of 5, he was already interested in being involved with the country’s affairs. Alongside, he grew up with his four siblings – Mahoddam, Dalmardus, Daljit and Sur Pratap. At the age of 10, he went to Bhaktapur to study with the Malla dynasty, where he learned a lot about his country."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b703fd5060bc",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "30d5d46979230",
+            "_type": "span",
+            "marks": [],
+            "text": "\nAt the age of 15, he married Indra Kumari Devi. While returning home after his marriage, Prithvi saw the three states - Kantipur, Patan and Bhadgaon, from a hill. After seeing these three segregated states from the hill, he said that he wanted to become King of all those states. Prithvi became the King of Gorkha at the age of 20, after his father’s death."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "33a57c7e09d9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b6e506c2d5860",
+            "_type": "span",
+            "marks": [],
+            "text": "\n"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cd7317352d52",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "da3dae51cca30",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "His Beliefs"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "098097ff3374",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cf013178c6280",
+            "_type": "span",
+            "marks": [],
+            "text": "Prithvi Narayan Shah believed that Nepal should try to maintain good relations with its neighbouring countries like China, which was then ruled by the Qing dynasty. However, he also emphasized that foreigners must not be allowed in the country because he believed that if they were allowed inside the country, they would strip the country of all its resources. Instead, he proposed selling goods to neighbouring states and building wealth."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9d2b99a46f50",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3e5ab89e03a30",
+            "_type": "span",
+            "marks": [],
+            "text": "\n"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e1eb1ac02983",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "5a197db28ba20",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "The Unification of States into Nepal"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "d090385ce007",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "5c7307524e080",
+            "_type": "span",
+            "marks": [],
+            "text": "Prithvi Narayan Shah was the one responsible for the start of the expansion and unification of Nepal. The reason for this was that he saw that there were many states scattered around the region of Nepal, and he thought that the states were vulnerable to attacks from mainly the East India Company, which was expanding fast in India and approaching the territories of Nepal. So, he believed that if all the states were unified into one, then the country would be able to defend against the attacks from the East India Company. He successfully unified Nuwakot, Kirtipur, Makwanpur, Chaukot and Kathmandu Valley into Nepal. After Prithvi Narayan Shah’s death, his son, Bahadur Shah continued the unification of Nepal while Pratap Singh Shah became the King of Nepal."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "00aff19ad955",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fea9feae71bb0",
+            "_type": "span",
+            "marks": [],
+            "text": "\n"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9d0ff2a74690",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "81170de906540",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "His Death and Legacy"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "1454c71edb95",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "9b51f8c4ee5a0",
+            "_type": "span",
+            "marks": [],
+            "text": "On a solemn day in 1775, Prithvi Narayan Shah was respectfully cremated in the region of Nuwakot. His continuous efforts into unifying the nation is what has made Nepal such a beautiful nation - having beautiful hills, rivers, lakes and the world's tallest mountain. Today, the birthplace of Prithvi Narayan Shah, Gorkha Palace, can be visited in Gorkha."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "846d37bfc311",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4c0edb880a980",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "177d9a51676e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f35157add9560",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "Sincerely,"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "226082f1a64b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "26a5cbfd8ebc",
+            "_type": "span",
+            "marks": [],
+            "text": "Sandeep Shrestha"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "521285f9a858",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "77880fe27bbc0",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "7082fc70ac20",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6220e3efb425",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "d16c89efc08c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "370f1fb9d0940",
+            "_type": "span",
+            "marks": [
+              "strong"
+            ],
+            "text": "References:"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "4475df55706d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "61b17a5ec5ac0",
+            "_type": "span",
+            "marks": [],
+            "text": "3 Balloons. “History of Nepal part 1 | Prithvi Narayan Shah | Battle of Nuwakot | Modern Nepal.” "
+          },
+          {
+            "_key": "61b17a5ec5ac1",
+            "_type": "span",
+            "marks": [
+              "em"
+            ],
+            "text": "YouTube, "
+          },
+          {
+            "_key": "61b17a5ec5ac2",
+            "_type": "span",
+            "marks": [],
+            "text": "uploaded by 3 Balloons, 6 March 2019,"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b59fc6c24b2e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4bb06d8383ca0",
+            "_type": "span",
+            "marks": [
+              "7b8a9d674ccb"
+            ],
+            "text": "https://www.youtube.com/watch?v=XTwh_VC_FPM&t=1459s"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "7b8a9d674ccb",
+            "_type": "link",
+            "href": "https://www.youtube.com/watch?v=XTwh_VC_FPM&t=1459s"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "6480597f8b64",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "bc4c80ab14160",
+            "_type": "span",
+            "marks": [],
+            "text": ""
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "2a0a52ad219d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a9aad241dc150",
+            "_type": "span",
+            "marks": [],
+            "text": "“Prithvi Narayan Shah.” "
+          },
+          {
+            "_key": "a9aad241dc151",
+            "_type": "span",
+            "marks": [
+              "em"
+            ],
+            "text": "Wikipedia, "
+          },
+          {
+            "_key": "a9aad241dc152",
+            "_type": "span",
+            "marks": [],
+            "text": "accessed 23 December 2020,"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9e0eba6f600d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "610eb024a7530",
+            "_type": "span",
+            "marks": [
+              "26ffce36a77a"
+            ],
+            "text": "https://en.wikipedia.org/wiki/Prithvi_Narayan_Shah"
+          },
+          {
+            "_key": "610eb024a7531",
+            "_type": "span",
+            "marks": [],
+            "text": "."
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "26ffce36a77a",
+            "_type": "link",
+            "href": "https://en.wikipedia.org/wiki/Prithvi_Narayan_Shah"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "ca27452a3892",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "0a6346d181000",
+            "_type": "span",
+            "marks": [],
+            "text": "\n“File:Prithvi Narayan Shah.jpg.” "
+          },
+          {
+            "_key": "678795f4abc91",
+            "_type": "span",
+            "marks": [
+              "em"
+            ],
+            "text": "Wikipedia "
+          },
+          {
+            "_key": "678795f4abc92",
+            "_type": "span",
+            "marks": [],
+            "text": ", en.wikiquote.org/wiki/File:Prithvi_Narayan_Shah.jpg."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "description": "Prithvi Narayan Shah was the first King of Nepal. Being born to King Nara Bhupal Shah and Queen Kaushalyavati Devi on January of 1723 in the Gorkha Palace, he was the first ruler to unify Nepal as one single state. In Nepal, he is also known as “Father of the Nation” in Nepal. Prithvi Narayan Shah was succeeded by his son, Pratap Singh Shah, who continued the unification of Nepal.",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-4792075697a8b76aa9de99cf6cdd482387bd6544-330x330-webp",
+        "_type": "reference"
+      }
+    },
+    "slug": {
+      "_type": "slug",
+      "current": "prithvi-narayan-shah-the-unifier-and-the-first-king-of-nepal"
+    },
+    "title": "Prithvi Narayan Shah: The Unifier and The First King of Nepal"
+  }
+]
